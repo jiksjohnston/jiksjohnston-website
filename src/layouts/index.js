@@ -44,7 +44,7 @@ export default class IndexLayout extends React.Component {
             />
             <Anchor 
               icon={<Twitter />}
-              href='https://twitter.com/juliastrnad' 
+              href='https://twitter.com/jiks_johnston' 
               target='_blank'
             />
             </Box>
