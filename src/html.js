@@ -34,6 +34,7 @@ export default class HTML extends React.Component {
           />
           {this.props.headComponents}
           {css}
+          <title>Julia Strnad Johnston</title>
         </head>
         <body>
           <div
