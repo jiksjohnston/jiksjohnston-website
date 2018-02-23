@@ -14,7 +14,7 @@ export default class Twitter extends React.PureComponent {
 
   static defaultProps = {
     color: false,
-    extraStyles: 'icon',
+    extraStyles: 'social-icon',
     height: '36px',
     width: '36px',
   }
